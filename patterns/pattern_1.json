@@ -1,0 +1,57 @@
+{
+    "name": "Test Pattern 1",
+    "yarn_type": "DK",
+    "yarn_color": "Grey",
+    "needle_size": "3.5",
+    "terms": "uk",
+    "rounds": [
+        {
+            "round": 1,
+            "instruction": "7 sc in magic ring",
+            "yarn_color": "Pink",
+            "notes": "Round 1 with Pink yarn",
+            "stitches_before": 0,
+            "stitches_after": 12
+        },
+        {
+            "round": 2,
+            "instruction": "3 sc in magic ring",
+            "yarn_color": "Red",
+            "notes": "Round 2 with Red yarn",
+            "stitches_before": 12,
+            "stitches_after": 14
+        },
+        {
+            "round": 3,
+            "instruction": "5 sc in magic ring",
+            "yarn_color": "Purple",
+            "notes": "Round 3 with Purple yarn",
+            "stitches_before": 14,
+            "stitches_after": 24
+        },
+        {
+            "round": 4,
+            "instruction": "10 sc in magic ring",
+            "yarn_color": "Pink",
+            "notes": "Round 4 with Pink yarn",
+            "stitches_before": 24,
+            "stitches_after": 32
+        },
+        {
+            "round": 5,
+            "instruction": "4 sc in magic ring",
+            "yarn_color": "Purple",
+            "notes": "Round 5 with Purple yarn",
+            "stitches_before": 32,
+            "stitches_after": 35
+        },
+        {
+            "round": 6,
+            "instruction": "7 sc in magic ring",
+            "yarn_color": "Grey",
+            "notes": "Round 6 with Grey yarn",
+            "stitches_before": 35,
+            "stitches_after": 37
+        }
+    ]
+}

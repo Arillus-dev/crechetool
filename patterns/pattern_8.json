@@ -1,0 +1,89 @@
+{
+    "name": "Test Pattern 8",
+    "yarn_type": "DK",
+    "yarn_color": "Yellow",
+    "needle_size": "3.5",
+    "terms": "us",
+    "rounds": [
+        {
+            "round": 1,
+            "instruction": "5 sc in magic ring",
+            "yarn_color": "Blue",
+            "notes": "Round 1 with Blue yarn",
+            "stitches_before": 0,
+            "stitches_after": 12
+        },
+        {
+            "round": 2,
+            "instruction": "3 sc in magic ring",
+            "yarn_color": "Pink",
+            "notes": "Round 2 with Pink yarn",
+            "stitches_before": 12,
+            "stitches_after": 17
+        },
+        {
+            "round": 3,
+            "instruction": "9 sc in magic ring",
+            "yarn_color": "Yellow",
+            "notes": "Round 3 with Yellow yarn",
+            "stitches_before": 17,
+            "stitches_after": 20
+        },
+        {
+            "round": 4,
+            "instruction": "5 sc in magic ring",
+            "yarn_color": "Blue",
+            "notes": "Round 4 with Blue yarn",
+            "stitches_before": 20,
+            "stitches_after": 23
+        },
+        {
+            "round": 5,
+            "instruction": "6 sc in magic ring",
+            "yarn_color": "Yellow",
+            "notes": "Round 5 with Yellow yarn",
+            "stitches_before": 23,
+            "stitches_after": 30
+        },
+        {
+            "round": 6,
+            "instruction": "5 sc in magic ring",
+            "yarn_color": "Green",
+            "notes": "Round 6 with Green yarn",
+            "stitches_before": 30,
+            "stitches_after": 36
+        },
+        {
+            "round": 7,
+            "instruction": "5 sc in magic ring",
+            "yarn_color": "Beige",
+            "notes": "Round 7 with Beige yarn",
+            "stitches_before": 36,
+            "stitches_after": 45
+        },
+        {
+            "round": 8,
+            "instruction": "4 sc in magic ring",
+            "yarn_color": "Green",
+            "notes": "Round 8 with Green yarn",
+            "stitches_before": 45,
+            "stitches_after": 55
+        },
+        {
+            "round": 9,
+            "instruction": "9 sc in magic ring",
+            "yarn_color": "Red",
+            "notes": "Round 9 with Red yarn",
+            "stitches_before": 55,
+            "stitches_after": 66
+        },
+        {
+            "round": 10,
+            "instruction": "5 sc in magic ring",
+            "yarn_color": "Yellow",
+            "notes": "Round 10 with Yellow yarn",
+            "stitches_before": 66,
+            "stitches_after": 70
+        }
+    ]
+}

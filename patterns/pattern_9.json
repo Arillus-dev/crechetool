@@ -1,0 +1,49 @@
+{
+    "name": "Test Pattern 9",
+    "yarn_type": "DK",
+    "yarn_color": "Beige",
+    "needle_size": "3.5",
+    "terms": "us",
+    "rounds": [
+        {
+            "round": 1,
+            "instruction": "8 sc in magic ring",
+            "yarn_color": "Beige",
+            "notes": "Round 1 with Beige yarn",
+            "stitches_before": 0,
+            "stitches_after": 8
+        },
+        {
+            "round": 2,
+            "instruction": "7 sc in magic ring",
+            "yarn_color": "Grey",
+            "notes": "Round 2 with Grey yarn",
+            "stitches_before": 8,
+            "stitches_after": 15
+        },
+        {
+            "round": 3,
+            "instruction": "3 sc in magic ring",
+            "yarn_color": "Blue",
+            "notes": "Round 3 with Blue yarn",
+            "stitches_before": 15,
+            "stitches_after": 20
+        },
+        {
+            "round": 4,
+            "instruction": "5 sc in magic ring",
+            "yarn_color": "Purple",
+            "notes": "Round 4 with Purple yarn",
+            "stitches_before": 20,
+            "stitches_after": 31
+        },
+        {
+            "round": 5,
+            "instruction": "4 sc in magic ring",
+            "yarn_color": "Beige",
+            "notes": "Round 5 with Beige yarn",
+            "stitches_before": 31,
+            "stitches_after": 37
+        }
+    ]
+}
