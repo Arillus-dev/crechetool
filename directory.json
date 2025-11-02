@@ -4,80 +4,71 @@
         "file": "patterns/pattern_1.json",
         "image": "images/pattern_1.jpg",
         "type": "Soft Toy",
-        "difficulty": "Advanced",
-        "terms": "UK"
+        "difficulty": "Advanced"
     },
     {
         "name": "Penguin Toy",
         "file": "patterns/pattern_2.json",
         "image": "images/pattern_2.jpg",
         "type": "Soft Toy",
-        "difficulty": "Intermediate",
-        "terms": "US"
+        "difficulty": "Intermediate"
     },
     {
         "name": "Gloves",
         "file": "patterns/pattern_3.json",
         "image": "images/pattern_3.jpg",
         "type": "Clothing",
-        "difficulty": "Advanced",
-        "terms": "US"
+        "difficulty": "Advanced"
     },
     {
         "name": "Baby Hat",
         "file": "patterns/pattern_4.json",
         "image": "images/pattern_4.jpg",
         "type": "Clothing",
-        "difficulty": "Easy",
-        "terms": "UK"
+        "difficulty": "Easy"
     },
     {
         "name": "Baby Blanket",
         "file": "patterns/pattern_5.json",
         "image": "images/pattern_5.jpg",
         "type": "Blanket",
-        "difficulty": "Easy",
-        "terms": "US"
+        "difficulty": "Easy"
     },
     {
         "name": "Dinosaur toy",
         "file": "patterns/pattern_6.json",
         "image": "images/pattern_6.jpg",
         "type": "Soft Toy",
-        "difficulty": "Intermediate",
-        "terms": "UK"
+        "difficulty": "Intermediate"
     },
     {
         "name": "Snuggle Blanket",
         "file": "patterns/pattern_7.json",
         "image": "images/pattern_7.jpg",
         "type": "Blanket",
-        "difficulty": "Intermediate",
-        "terms": "UK"
+        "difficulty": "Intermediate"
     },
     {
         "name": "Crochet Dolly",
         "file": "patterns/pattern_8.json",
         "image": "images/pattern_8.jpg",
         "type": "Soft Toy",
-        "difficulty": "Intermediate",
-        "terms": "US"
+        "difficulty": "Intermediate"
     },
     {
         "name": "Granny Hat",
         "file": "patterns/pattern_9.json",
         "image": "images/pattern_9.jpg",
         "type": "Clothing",
-        "difficulty": "Easy",
-        "terms": "US"
+        "difficulty": "Easy"
     },
     {
         "name": "Wheelchair Blanket",
         "file": "patterns/pattern_10.json",
         "image": "images/pattern_10.jpg",
         "type": "Blanket",
-        "difficulty": "Intermediate",
-        "terms": "UK"
+        "difficulty": "Intermediate"
     }
 
 ]
+
