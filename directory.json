@@ -1,6 +1,6 @@
 [
     {
-        "name": "Test Pattern 1",
+        "name": "Lion Toy",
         "file": "patterns/pattern_1.json",
         "image": "images/pattern_1.jpg",
         "type": "Soft Toy",
@@ -8,7 +8,7 @@
         "terms": "UK"
     },
     {
-        "name": "Test Pattern 2",
+        "name": "Penguin Toy",
         "file": "patterns/pattern_2.json",
         "image": "images/pattern_2.jpg",
         "type": "Soft Toy",
@@ -16,7 +16,7 @@
         "terms": "US"
     },
     {
-        "name": "Test Pattern 3",
+        "name": "Gloves",
         "file": "patterns/pattern_3.json",
         "image": "images/pattern_3.jpg",
         "type": "Clothing",
@@ -24,7 +24,7 @@
         "terms": "US"
     },
     {
-        "name": "Test Pattern 4",
+        "name": "Baby Hat",
         "file": "patterns/pattern_4.json",
         "image": "images/pattern_4.jpg",
         "type": "Clothing",
@@ -32,7 +32,7 @@
         "terms": "UK"
     },
     {
-        "name": "Test Pattern 5",
+        "name": "Baby Blanket",
         "file": "patterns/pattern_5.json",
         "image": "images/pattern_5.jpg",
         "type": "Blanket",
@@ -40,7 +40,7 @@
         "terms": "US"
     },
     {
-        "name": "Test Pattern 6",
+        "name": "Dinosaur toy",
         "file": "patterns/pattern_6.json",
         "image": "images/pattern_6.jpg",
         "type": "Soft Toy",
@@ -48,7 +48,7 @@
         "terms": "UK"
     },
     {
-        "name": "Test Pattern 7",
+        "name": "Snuggle Blanket",
         "file": "patterns/pattern_7.json",
         "image": "images/pattern_7.jpg",
         "type": "Blanket",
@@ -56,7 +56,7 @@
         "terms": "UK"
     },
     {
-        "name": "Test Pattern 8",
+        "name": "Crochet Dolly",
         "file": "patterns/pattern_8.json",
         "image": "images/pattern_8.jpg",
         "type": "Soft Toy",
@@ -64,7 +64,7 @@
         "terms": "US"
     },
     {
-        "name": "Test Pattern 9",
+        "name": "Granny Hat",
         "file": "patterns/pattern_9.json",
         "image": "images/pattern_9.jpg",
         "type": "Clothing",
@@ -72,11 +72,12 @@
         "terms": "US"
     },
     {
-        "name": "Test Pattern 10",
+        "name": "Wheelchair Blanket",
         "file": "patterns/pattern_10.json",
         "image": "images/pattern_10.jpg",
         "type": "Blanket",
         "difficulty": "Intermediate",
         "terms": "UK"
     }
+
 ]
